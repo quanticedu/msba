@@ -1,5 +1,4 @@
-# MSBA-R
-R Foundation
+# MSBA-R R Foundation
 
 This repository contains code files and resources for the course "R Foundation." The course covers the fundamentals of the R programming language and its applications.
 
@@ -27,9 +26,9 @@ Getting Started
 To access the course materials or use the code files in this repository, follow these steps:
 
 Clone the repository to your local machine using the following command:
-bash
-Copy code
+
 git clone https://github.com/your-username/R-Foundation.git
+
 Navigate to the relevant module or topic directory within the code/ folder to find the corresponding R code files.
 Open the code files using your preferred R integrated development environment (IDE) or text editor.
 Run the code examples or modify them to suit your needs. Make sure to install any required R packages mentioned in the code file's header.
