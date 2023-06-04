@@ -41,12 +41,11 @@ resources/: This directory contains additional resources, such as slide decks, s
 To access the course materials or use the code files in this repository, follow these steps:
 
 Clone the repository to your local machine using the following command:
-
 git clone https://github.com/your-username/R-Foundation.git
 
 Navigate to the relevant module or topic directory within the code/ folder to find the corresponding R code files.
-Open the code files using your preferred R integrated development environment (IDE) or text editor.
-Run the code examples or modify them to suit your needs. Make sure to install any required R packages mentioned in the code file's header.
+Open the code files using your preferred R integrated development environment (IDE).
+Run the code examples or modify them to suit your needs. Make sure to install any required R packages.
 
 
 
