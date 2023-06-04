@@ -8,8 +8,8 @@ This repository contains code files and resources for the course "R Foundation."
 
 The "R Foundation" course is designed to provide students with a solid foundation in R programming. It covers the following topics:
 
-MSBAR 1.01 Introduction to RStudio
-MSBAR 1.02 Variables and Operators
+MSBAR 1.01 Introduction to RStudio  
+MSBAR 1.02 Variables and Operators. 
 MSBAR 1.03 Vectors and Lists
 MSBAR 1.04 Dataframes and Matrices
 MSBAR 1.05 Control Structures
