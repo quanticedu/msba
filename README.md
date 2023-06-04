@@ -18,8 +18,6 @@ MSBAR 1.04 Dataframes and Matrices.
 
 MSBAR 1.05 Control Structures. 
 
-MSBAR 1.05.5 What to Watch?  
-
 MSBAR 1.06 Importing and Reading Data. 
 
 MSBAR 1.07 Functions. 
