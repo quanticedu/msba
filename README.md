@@ -45,9 +45,6 @@ Navigate to the relevant module or topic directory within the code/ folder to fi
 Open the code files using your preferred R integrated development environment (IDE) or text editor.
 Run the code examples or modify them to suit your needs. Make sure to install any required R packages mentioned in the code file's header.
 
-# License
-
-This repository is private and the code is not publicly accessible. All rights reserved. Any unauthorized use, reproduction, or distribution of the code in this repository is strictly prohibited. 
 
 
 
