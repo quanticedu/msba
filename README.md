@@ -30,8 +30,11 @@ MSBAR 1.08 Bisic Visualizations.
 # Repository Structure
 
 code/: This directory contains the code files for the course. It is organized by modules and topics covered in the course.
+
 data/: This directory stores any sample datasets or data files used in the code examples.
+
 resources/: This directory contains additional resources, such as slide decks, supplementary materials, or reference guides.
+
 
 # Getting Started
 
