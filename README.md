@@ -22,7 +22,7 @@ MSBAR 1.06 Importing and Reading Data.
 
 MSBAR 1.07 Functions. 
 
-MSBAR 1.08 Bisic Visualizations. 
+MSBAR 1.08 Basic Visualizations. 
 
 
 # Repository Structure
