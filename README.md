@@ -39,6 +39,8 @@ To access the course materials or use the code files in this repository, follow 
 Clone the repository to your local machine using the following command:
 git clone https://github.com/your-username/R-Foundation.git
 
+Or, click the repository, then click the downward arrow next to the green code button, and download the zip file. 
+
 Navigate to the relevant module or topic directory within the code/ folder to find the corresponding R code files.
 Open the code files using your preferred R integrated development environment (IDE).
 Run the code examples or modify them to suit your needs. Make sure to install any required R packages.
