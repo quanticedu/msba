@@ -2,7 +2,7 @@
 
 # Quantic MSBA
 
-This repository contains code files and resources for Quantic Masters of Science in Business Analytics Program. 
+This repository contains code files and resources for Quantic Business Analytics courses. 
 
 
 # Repository Structure
